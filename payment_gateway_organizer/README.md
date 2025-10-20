@@ -1,4 +1,4 @@
-# Payment Gateway Organizer
+# json organizer
 
 Aplicação para processar arquivos JSON e extrair informações de gateways de pagamento, gerando relatórios Excel organizados.
 
